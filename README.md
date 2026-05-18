@@ -1,5 +1,4 @@
 # Binary-Classification-with-Neural-Networks-on-the-Census-Income-Dataset
-# Binary Classification with Neural Networks on the Census Income Dataset
 
 This project builds a Deep Learning Tabular Model using PyTorch to predict whether a person’s income is high or low based on demographic and work-related details.
 
